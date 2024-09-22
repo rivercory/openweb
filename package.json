@@ -1,6 +1,6 @@
 {
   "name": "openweb",
-  "version": "0.0.0",
+  "version": "stable",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
