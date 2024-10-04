@@ -137,7 +137,7 @@ filesystem-based router, meaning that the layout of page folders in the filesyst
 assigned to.
 
 To edit an existing page, find the corresponding folder in
-the [`docs`](<(https://github.com/files-community/Website/tree/main/src/routes/docs)>) directory, and edit the `+page.md` file inside it.
+the [`docs`](https://github.com/files-community/Website/tree/main/src/routes/docs) directory, and edit the `+page.md` file inside it.
 
 ### Adding or Deleting a Page
 
