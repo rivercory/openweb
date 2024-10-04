@@ -1,10 +1,11 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 title: seleniumhq.github.io
 ---
 
 > GitHub: https://github.com/SeleniumHQ/seleniumhq.github.io <br/>
-> Website: https://www.selenium.dev/
+> Website: https://www.selenium.dev/ <br/>
+> Language (Framework): Hugo
 
 [![GitHub Actions](https://github.com/seleniumhq/seleniumhq.github.io/workflows/Publish%20Selenium%20Site/badge.svg)](https://github.com/SeleniumHQ/seleniumhq.github.io/actions?query=workflow%3A%22Publish+Selenium+Site%22)
 
