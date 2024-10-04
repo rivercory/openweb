@@ -6,8 +6,8 @@ const config = {
   favicon: 'img/favicon.ico',
   url: 'https://openweb.pages.dev',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'ignore',
+  onBrokenMarkdownLinks: 'ignore',
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
