@@ -10,9 +10,9 @@ title: files.community
 <h1 align="center">Files Website • <a href="https://files.community">files.community</a></h1>
 
 <p align="center">
-    <a href="#overview">Overview</a> |
-    <a href="#development">Development</a> |
-    <a href="#contributors">Contributors</a>
+    <a href="#codebase-structure">Overview</a> |
+    <a href="#github-codespaces">Development</a> |
+    <a href="#translating-the-site">Contributors</a>
 </p>
 
 <p align="center">  
@@ -184,7 +184,7 @@ Translation is done via Crowdin: https://crowdin.com/project/files-website
 
 # Contributors
 
-Want to contribute to this project? Feel free to open an [issue](/issues) or [pull request](/pulls).
+Want to contribute to this project? Feel free to open an [issue](https://github.com/files-community/Website/issues) or [pull request](https://github.com/files-community/Website/pulls).
 
 <a href="https://github.com/files-community/Website/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=files-community/Website" />
