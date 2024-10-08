@@ -78,7 +78,7 @@ testing framework.
 ## Deploying
 
 Each time a CL is reviewed and submitted, the code is deployed to App Engine.
-See [cmd/golangorg/README.md](cmd/golangorg/README.md#deploying-to-go_dev-and-golang_org) for details.
+See [cmd/golangorg/README.md](https://github.com/golang/website/blob/master/cmd/golangorg/README.md#deploying-to-go_dev-and-golang_org) for details.
 
 ## Report Issues / Send Patches
 
