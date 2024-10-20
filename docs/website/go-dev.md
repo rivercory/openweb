@@ -18,7 +18,9 @@ Server code is in cmd/ and internal/.
 
 To run the combined go.dev+golang.org server to preview local content changes, use:
 
-```go run ./cmd/golangorg```
+```
+go run ./cmd/golangorg
+```
 
 The supporting programs cmd/admingolangorg and cmd/googlegolangorg
 are the servers for admin.golang.org and google.golang.org.

@@ -3,7 +3,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Openweb',
   tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/openweb_round.svg',
   url: 'https://openweb.pages.dev',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -20,7 +20,7 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/rivercory/openweb/tree/master/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -31,19 +31,18 @@ const config = {
 
   themeConfig:
     ({
-      image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Openweb',
         logo: {
           alt: 'Openweb Logo',
-          src: 'img/logo.svg',
+          src: 'img/openweb_round.svg',
         },
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'docsSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
           {
             href: 'https://github.com/rivercory/openweb',
