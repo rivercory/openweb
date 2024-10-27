@@ -14,6 +14,13 @@ const sidebars = {
         },
         {
           type: 'category',
+          label: 'Django',
+          items: [
+            'website/django/lutris-net',
+          ],
+        },
+        {
+          type: 'category',
           label: 'Go',
           items: [
             'website/go/go-dev',
