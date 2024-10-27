@@ -9,6 +9,7 @@ const sidebars = {
           type: 'category',
           label: '11ty',
           items: [
+            'website/11ty/11ty-dev',
             'website/11ty/sass-lang-com',
           ],
         },
