@@ -50,6 +50,13 @@ const sidebars = {
         },
         {
           type: 'category',
+          label: 'Maven',
+          items: [
+            'website/maven/start-spring-io',
+          ],
+        },
+        {
+          type: 'category',
           label: 'Ruby on Rails',
           items: [
             'website/ruby-on-rails/rubygems-org',
