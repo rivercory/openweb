@@ -1,5 +1,4 @@
 ---
-sidebar_position: 8
 title: framework7.io
 ---
 
