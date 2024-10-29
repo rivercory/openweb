@@ -19,7 +19,7 @@ running at https://start.spring.io. The following modules are available:
 * `start-site-verification`: tests to verify the validity of the metadata
 
 ## Using
-There is a [dedicated page](USING.adoc) that describes how you can interact with the
+There is a [dedicated page](https://github.com/spring-io/start.spring.io/blob/main/USING.adoc) that describes how you can interact with the
 service.
 
 ## Building from Source
