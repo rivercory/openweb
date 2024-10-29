@@ -22,6 +22,13 @@ const sidebars = {
         },
         {
           type: 'category',
+          label: 'Docusaurus',
+          items: [
+            'website/docusaurus/reactnative-dev',
+          ],
+        },
+        {
+          type: 'category',
           label: 'Go',
           items: [
             'website/go/go-dev',
