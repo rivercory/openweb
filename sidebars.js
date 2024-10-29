@@ -66,6 +66,13 @@ const sidebars = {
         },
         {
           type: 'category',
+          label: 'Next.js',
+          items: [
+            'website/nextjs/ruffle-rs',
+          ],
+        },
+        {
+          type: 'category',
           label: 'Ruby on Rails',
           items: [
             'website/ruby-on-rails/rubygems-org',
