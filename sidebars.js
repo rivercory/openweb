@@ -15,6 +15,13 @@ const sidebars = {
         },
         {
           type: 'category',
+          label: 'CRACO',
+          items: [
+            'website/craco/airswap-io',
+          ],
+        },
+        {
+          type: 'category',
           label: 'Django',
           items: [
             'website/django/lutris-net',
@@ -32,6 +39,13 @@ const sidebars = {
           label: 'Go',
           items: [
             'website/go/go-dev',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Grunt',
+          items: [
+            'website/grunt/gruntjs-com',
           ],
         },
         {
@@ -54,6 +68,7 @@ const sidebars = {
           items: [
             'website/jekyll/academicpages-github-io',
             'website/jekyll/editorconfig-org',
+            'website/jekyll/f-droid-org',
             'website/jekyll/rubyinstaller-org'
           ],
         },
