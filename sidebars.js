@@ -67,6 +67,7 @@ const sidebars = {
           label: 'Jekyll',
           items: [
             'website/jekyll/academicpages-github-io',
+            'website/jekyll/calyxos-org',
             'website/jekyll/editorconfig-org',
             'website/jekyll/f-droid-org',
             'website/jekyll/rubyinstaller-org'
